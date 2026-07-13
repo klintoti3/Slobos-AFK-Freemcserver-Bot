@@ -1,14 +1,14 @@
 {
-  "name": "AFK Bot",
+  "name": "AFK Nigerian",
   "bot-account": {
     "username": "Slobot00",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
-    "version": "",
+    "ip": "anojeyy.enderman.cloud",
+    "port": 29393,
+    "version": "1.21.7",
     "try-creative": false
   },
   "position": {
