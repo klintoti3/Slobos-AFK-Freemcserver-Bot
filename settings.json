@@ -29,9 +29,9 @@
     "chat-messages": {
       "enabled": true,
       "repeat": true,
-      "repeat-delay": 120,
+      "repeat-delay": 12000,
       "messages": [
-        "I'm a regular player",
+        "I'm a nigerian player",
         "Subscribe to NigerianTJ!",
         "Brrp Brrrpp Patapim"
       ]
