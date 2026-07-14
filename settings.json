@@ -1,7 +1,7 @@
 {
   "name": "AFK Nigerian",
   "bot-account": {
-    "username": "Slobot00",
+    "username": "NigerianTJ",
     "password": "",
     "type": "offline"
   },
@@ -29,7 +29,7 @@
     "chat-messages": {
       "enabled": true,
       "repeat": true,
-      "repeat-delay": 12000,
+      "repeat-delay": 120000,
       "messages": [
         "I'm a nigerian player",
         "Subscribe to NigerianTJ!",
