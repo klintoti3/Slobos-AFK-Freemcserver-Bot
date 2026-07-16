@@ -9,7 +9,7 @@
     "ip": "anojeyy.enderman.cloud",
     "port": 29393,
     "version": "1.21.7",
-    "try-creative": true
+    "try-spectator": true
   },
   "position": {
     "enabled": true,
