@@ -9,7 +9,7 @@
     "ip": "anojeyy.enderman.cloud",
     "port": 29393,
     "version": "1.21.7",
-    "try-creative": false
+    "try-creative": true
   },
   "position": {
     "enabled": true,
@@ -19,7 +19,7 @@
   },
   "utils": {
     "auto-auth": {
-      "enabled": true,
+      "enabled": false,
       "password": "chalol78"
     },
     "anti-afk": {
@@ -50,11 +50,11 @@
     },
     "look-around": {
       "enabled": true,
-      "interval": 5000
+      "interval": 2500
     },
     "random-jump": {
       "enabled": true,
-      "interval": 10000
+      "interval": 75000
     }
   },
   "modules": {
