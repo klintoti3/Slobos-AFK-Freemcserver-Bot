@@ -9,7 +9,9 @@
     "ip": "anojeyy.enderman.cloud",
     "port": 29393,
     "version": "1.21.7",
-    "try-spectator": true
+    "try-spectator": true,
+    "accept-resource-packs": false,
+    "resource-pack-behavior": "decline"
   },
   "position": {
     "enabled": true,
