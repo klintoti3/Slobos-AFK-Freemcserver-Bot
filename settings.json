@@ -8,10 +8,10 @@
   "server": {
     "ip": "anojeyy.enderman.cloud",
     "port": 29393,
-    "version": "1.21.7",
+    "version": "",
     "try-creative": false,
-    "accept-resource-packs": false,
-    "resource-pack-behavior": "decline"
+    "accept-resource-packs": true,
+    "resource-pack-behavior": "accept"
   },
   "position": {
     "enabled": true,
@@ -21,7 +21,7 @@
   },
   "utils": {
     "auto-auth": {
-      "enabled": false,
+      "enabled": true,
       "password": "chalol78"
     },
     "anti-afk": {
